@@ -7,7 +7,7 @@ public class FizzBuzz {
 		// for multiples of 5 write buzz. for multiples of 3
 		// and 5 write fizzbuzz
 
-		for (int i = 100; i < 1; i++) {
+		for (int i = 1; i < 100; i++) {
 
 			if (i % 15 == 0) {
 				System.out.println("fizzbuzz");
